@@ -1,2 +1,2 @@
 # JavaOOP-Project
-A small system management for registering employees
+A small system management for employees registration
